@@ -107,7 +107,7 @@ a
     display: inline-block;
     padding: 35px 36px;
     -webkit-transition: all .4s;
-            transition: all .4s;
+    transition: all .4s;
     color: rgb(255, 255, 255);
     background-color: rgb(5, 174, 204);
 }
@@ -146,7 +146,7 @@ a
     display: inline-block;
     padding: 25px 28px;
     -webkit-transition: all .3s;
-            transition: all .3s;
+    transition: all .3s;
     color: #fff;
     background-color: rgb(5, 174, 204);
 }
@@ -231,7 +231,7 @@ a
 .new_products img
 {
     -webkit-filter: opacity(70%);
-            filter: opacity(70%);
+    filter: opacity(70%);
 }
 .left_column
 {
@@ -369,7 +369,7 @@ sup
     width: 100%;
     height: 100%;
     -webkit-transition: .5s;
-        transition: .5s;
+    transition: .5s;
 }
 .menswear:hover .block-hidden
 {
@@ -385,14 +385,14 @@ sup
     bottom: 40px;
 }
 
- .read-more {
-   position: relative;
-    z-index: 2;
-    top: 0;
-    left: 0;
-    display: block;
-    width: 100%;
-    height: 100%;
+.read-more {
+ position: relative;
+ z-index: 2;
+ top: 0;
+ left: 0;
+ display: block;
+ width: 100%;
+ height: 100%;
 }
 
 .left_column .search
@@ -441,49 +441,49 @@ sup
 .input1::-webkit-input-placeholder
 {
     -webkit-transition: opacity .3s ease;
-            transition: opacity .3s ease;
+    transition: opacity .3s ease;
     opacity: 1;
 }
 .input1::-moz-placeholder
 {
     -webkit-transition: opacity .3s ease;
-            transition: opacity .3s ease;
+    transition: opacity .3s ease;
     opacity: 1;
 }
 .input1:-moz-placeholder
 {
     -webkit-transition: opacity .3s ease;
-            transition: opacity .3s ease;
+    transition: opacity .3s ease;
     opacity: 1;
 }
 .input1:-ms-input-placeholder
 {
     -webkit-transition: opacity .3s ease;
-            transition: opacity .3s ease;
+    transition: opacity .3s ease;
     opacity: 1;
 }
 .input1:focus::-webkit-input-placeholder
 {
     -webkit-transition: opacity .3s ease;
-            transition: opacity .3s ease;
+    transition: opacity .3s ease;
     opacity: 0;
 }
 .input1:focus::-moz-placeholder
 {
     -webkit-transition: opacity .3s ease;
-            transition: opacity .3s ease;
+    transition: opacity .3s ease;
     opacity: 0;
 }
 .input1:focus:-moz-placeholder
 {
     -webkit-transition: opacity .3s ease;
-            transition: opacity .3s ease;
+    transition: opacity .3s ease;
     opacity: 0;
 }
 .input1:focus:-ms-input-placeholder
 {
     -webkit-transition: opacity .3s ease;
-            transition: opacity .3s ease;
+    transition: opacity .3s ease;
     opacity: 0;
 }
 .left_column .crafts
@@ -563,7 +563,7 @@ sup
 .right_column .womenswear:hover .womenswear_info_wrap
 {
     -webkit-transition: .5s;
-            transition: .5s;
+    transition: .5s;
     opacity: 0;
 }
 .womenswear .block-hidden .block-hidden_wrap
@@ -622,7 +622,7 @@ sup
 .right_column .kids:hover .kids_info_wrap
 {
     -webkit-transition: .5s;
-            transition: .5s;
+    transition: .5s;
     opacity: 0;
 }
 .right_column .kids .block-hidden .block-hidden_wrap
@@ -637,7 +637,7 @@ sup
     height: 510px;
     margin-top: 5px;
     -webkit-transition: .5s;
-            transition: .5s;
+    transition: .5s;
 }
 .right_column .jewelry > img
 {
@@ -653,18 +653,18 @@ sup
 {
     top: 60px;
     -webkit-transition: .5s;
-            transition: .5s;
+    transition: .5s;
     opacity: .8;
     -webkit-transition: .5s;
 }
 .right_column .jewelry:hover .block-hidden_wrap
 { 
     -webkit-transform: rotate(-90deg);
-        -ms-transform: rotate(-90deg);
-            transform: rotate(-90deg);
+    -ms-transform: rotate(-90deg);
+    transform: rotate(-90deg);
     -webkit-transform-origin: 100% 20%;
-        -ms-transform-origin: 100% 20%;
-            transform-origin: 100% 20%;
+    -ms-transform-origin: 100% 20%;
+    transform-origin: 100% 20%;
     opacity: 1;
 }
 .right_column .jewelry .block-hidden_wrap  a
@@ -681,8 +681,8 @@ sup
 {
 
     -webkit-transform: rotate(90deg);
-        -ms-transform: rotate(90deg);
-            transform: rotate(90deg);
+    -ms-transform: rotate(90deg);
+    transform: rotate(90deg);
 }
 .square
 {
@@ -702,7 +702,7 @@ sup
     border-radius: 35px;
     background-color: #fff;
     -webkit-transition: .2s;
-        transition: .2s;
+    transition: .2s;
 }
 .square2
 {
@@ -712,8 +712,8 @@ sup
     width: 20px;
     height: 20px;
     -webkit-transform: rotate(-45deg);
-        -ms-transform: rotate(-45deg);
-            transform: rotate(-45deg);
+    -ms-transform: rotate(-45deg);
+    transform: rotate(-45deg);
     background-color: #fff;
     box-shadow: 2px 2px 2px #f0626e;
 }
@@ -725,7 +725,7 @@ sup
 }
 .products-carousel-wrap {
     overflow: hidden; 
-   position:relative;
+    position:relative;
 
 }
 .products-carousel-wrap .products-carousel {
@@ -792,7 +792,7 @@ sup
 }
 .featured_products-carousel-wrap {
     overflow: hidden; 
-   position:relative;
+    position:relative;
 
 }
 .featured_products-carousel-wrap .featured_products-carousel {
@@ -830,12 +830,12 @@ sup
 {
     max-width: 268px;
     -webkit-transition: all .3s;
-            transition: all .3s;
+    transition: all .3s;
 }
 .featured_products .featured_products_product a img:hover
 {
     -webkit-filter: opacity(.2);
-            filter: opacity(.6);
+    filter: opacity(.6);
 }
 
 .featured_products .featured_products_product h3 a
@@ -982,7 +982,7 @@ footer .footer_title
     margin-bottom: 25px;
     cursor: pointer;
     -webkit-transition: all .3s;
-            transition: all .3s;
+    transition: all .3s;
     text-transform: uppercase;
     color: rgb(255, 255, 255);
     border: none;
