@@ -652,6 +652,15 @@ sup
     width: 100%;
     padding-top: 25px;
 }
+.products-carousel-wrap {
+    overflow: hidden; 
+   position:relative;
+
+}
+.products-carousel-wrap .products-carousel {
+    width: 10000px; 
+    position: relative;
+}
 .new_products .product
 {
     position: relative;
@@ -730,7 +739,6 @@ sup
 {
     position: absolute;
     top: 20px;
-    display: inline-block;
     padding: 10px 25px;
     font-size: 13px;
     color: white;
