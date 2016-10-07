@@ -668,7 +668,8 @@ sup
     overflow: hidden;
     width: 370px;
     height: 200px;
-    margin: 28px 30px 25px 0;
+
+    margin: 28px 25px 25px 0;
 }
 .new_products .product:last-child
 {
@@ -684,8 +685,6 @@ sup
 {
     opacity: 1;
     background: rgba(0, 0, 0, .7);
-}
-.featured_products {
 }
 .header_section .newp
 {
@@ -720,6 +719,17 @@ sup
 {
     background: url(../images/left1.jpg);
 }
+.featured_products-carousel-wrap {
+    overflow: hidden; 
+   position:relative;
+
+}
+.featured_products-carousel-wrap .featured_products-carousel {
+    width: 10000px; 
+    position: relative;
+}
+
+
 .featured_products .featured_products_product
 {
     position: relative;
