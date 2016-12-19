@@ -1,0 +1,22 @@
+{
+  "name": "gift-shop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/evgeniy-bond/GiftShop.git"
+  },
+  "author": "evgenit-bond",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/evgeniy-bond/GiftShop/issues"
+  },
+  "homepage": "https://github.com/evgeniy-bond/GiftShop#readme",
+  "devDependencies": {
+    "gulp-install": "^0.6.0"
+  }
+}
